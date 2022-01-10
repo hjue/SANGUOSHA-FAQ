@@ -1,7 +1,5 @@
-
- 
-    <div style="text-align: center"><table><tr>
-    <td style="text-align: center">
+<div style="text-align: center"><table><tr>
+<td style="text-align: center">
 <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1b/38/06/1b380673-fa07-7d70-76af-cc625e8e7894/97f20edf-1616-4b93-9e88-fbaebfe22faf_page-0.jpg/460x0w.webp" height="400">
 </td>
 <td style="text-align: center">
