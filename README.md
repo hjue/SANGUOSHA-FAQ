@@ -17,7 +17,7 @@
 
 ### [三国杀FAQ iOS版](https://apps.apple.com/cn/app/%E4%B8%89%E5%9B%BD%E6%9D%80%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91/id527602078)
 
-【三国杀FAQ Android 版](https://github.com/hjue/SANGUOSHA-FAQ/releases/tag/3.0.8)
+[三国杀FAQ Android 版](https://github.com/hjue/SANGUOSHA-FAQ/releases/tag/3.0.8)
 
 * 三国杀所有武将、锦囊牌介绍、技能、FAQ，解决游戏时争论
 
